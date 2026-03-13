@@ -14,7 +14,7 @@ import Footer from '../components/Footer'
 
 const Home = () => {
   return (
-    <div>
+    <div className="bg-slate-900 pt-16">
         <Navbar/>
         <Hero/>
         <OurServices/>

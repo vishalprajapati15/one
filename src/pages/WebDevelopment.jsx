@@ -2,7 +2,7 @@ import React from 'react'
 
 const WebDevelopment = () => {
   return (
-    <div>WebDevelopment</div>
+    <div className="bg-slate-900 pt-16 min-h-screen">WebDevelopment</div>
   )
 }
 

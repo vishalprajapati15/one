@@ -2,7 +2,7 @@ import React from 'react'
 
 const Pricing = () => {
   return (
-    <div>Pricing</div>
+    <div className="bg-slate-900 pt-16 min-h-screen">Pricing</div>
   )
 }
 

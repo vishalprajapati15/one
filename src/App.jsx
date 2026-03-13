@@ -9,7 +9,7 @@ import ItSolution from './pages/ItSolution'
 
 const App = () => {
   return (
-    <div className='min-h-screen'>
+    <div className='min-h-screen bg-slate-900'>
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/about' element={<About />} />
